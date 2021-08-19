@@ -2,7 +2,9 @@
 ```
 npx create-react-app react_typescript_101 --template typescript
 ```
-
+* Delete all files inside src folder
+---
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
